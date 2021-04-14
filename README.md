@@ -92,6 +92,7 @@ An app that builds on the basic spotify to add comment functionality to songs. U
 ## Schema 
 [This section will be completed in Unit 9]
 ### Models
+#### Post
 [Add table of models]
 ### Networking
 - [Add list of network requests by screen ]
